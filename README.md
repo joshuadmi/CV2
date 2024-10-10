@@ -1,1 +1,1 @@
-https://github.com/joshuadmi/CV2.git
+ https://joshuadmi.github.io/CV2/
